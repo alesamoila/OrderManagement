@@ -1,1 +1,6 @@
 # OrderManagement
+
+Aceasta tema are ca obiectiv realizarea unui proiect care efectueaza operatii atat asupra unor obiecte care sunt construite prin extragerea lor dintr-o baza de date cat si direct asupra bazei de date astfel incat sa se respecte o concordanta 1 la 1 intre obiectele java si continutul bazei de date.
+Proiectul acesta presupune realizarea unei aplicatii de Order Management care sa fie utila in gestionarea unui depozit de produse diverse. Aplicatia ofera suport pentru adaugare, stergere, modificare de produse, tinerea unei evidente detaliate a clientilor ce cumpara produse si comenzile acestora. O caracteristica important a aplicatiei este aceea de notificare cand una sau mai multe produse au stocul depasit sau prea putine produse in stoc. 
+Toate operatiile pe care un utilizator le poate efectua cu ajutorul aplicatiei se realizeaza prin intermediul unei interfete foarte intuitive. Aceasta este structurata in 3 parti. Operatii asupra produselor din depozit, operatii asupra clientilor si gestiunea comenzilor. Alegerea intre asupra careia dintre aceste se doreste a se efectua operatii se realizeaza prin intermediul meniului din interfata java. In fiecare panel al interfetei apare si un tabel cu produsele/clientii/comenzile deja existente in baza de date care dupa fiecare operatie efectuata va fi actualizat corespunzator.
+
